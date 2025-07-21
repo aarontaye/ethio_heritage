@@ -53,3 +53,5 @@ const Navigation: React.FC<NavigationProps> = ({ currentPage, onNavigate }) => {
     </nav>
   );
 };
+
+export default Navigation;

@@ -37,3 +37,5 @@ const FeatureBanner: React.FC<FeatureBannerProps> = ({ title, subtitle, image, o
     </button>
   );
 };
+
+export default FeatureBanner;

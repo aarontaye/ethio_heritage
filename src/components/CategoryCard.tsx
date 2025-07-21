@@ -23,3 +23,5 @@ const CategoryCard: React.FC<CategoryCardProps> = ({ icon: Icon, title, color, o
     </button>
   );
 };
+
+export default CategoryCard;
